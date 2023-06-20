@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.SaberByteStudio.com]([SaberByteStudio.com](https://www.SaberByteStudio.com))
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **horror game ideas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
